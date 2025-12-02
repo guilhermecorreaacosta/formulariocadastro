@@ -1,4 +1,4 @@
-Um formulário simples e responsivo desenvolvido com HTML, CSS e JavaScript, ideal para estudos, portfólio ou como base para projetos maiores.
+Um formulário de cadastro responsivo desenvolvido com HTML, CSS e JavaScript, ideal para estudos, portfólio ou como base para projetos maiores.
 O foco do projeto é validar dados no frontend e oferecer uma interface limpa e intuitiva.
 
 🚀 Tecnologias Utilizadas
